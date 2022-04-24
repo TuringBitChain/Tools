@@ -1,3 +1,6 @@
+# online compiler: https://www.tutorialspoint.com/execute_ruby_online.php
+# source: https://github.com/in3rsha/learnmeabitcoin-code
+
 require 'digest' # Need this for the SHA256 hash function
 
 # Hash function used in the merkle root function (and in bitcoin in general)
